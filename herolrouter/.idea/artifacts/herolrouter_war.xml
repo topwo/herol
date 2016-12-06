@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="herolrouter:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="herolrouter-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="herolrouter:war exploded" />
+    </root>
+  </artifact>
+</component>

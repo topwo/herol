@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="herolclient:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/herolclient_jar</output-path>
+    <root id="archive" name="herolclient.jar">
+      <element id="module-output" name="herolclient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/fastjson-1.1.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/netty-all-5.0.0.Alpha1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/slf4j-api-1.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

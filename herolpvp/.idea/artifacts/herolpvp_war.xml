@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="herolpvp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="herolpvp-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="herolpvp:war exploded" />
+    </root>
+  </artifact>
+</component>

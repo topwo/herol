@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.ow2.chameleon.fuchsia.base.json-rpc:org.ow2.chameleon.fuchsia.base.json-rpc.json-rpc-bundle:0.0.2">
+    <CLASSES>
+      <root url="jar://E:/jar/org/ow2/chameleon/fuchsia/base/json-rpc/org.ow2.chameleon.fuchsia.base.json-rpc.json-rpc-bundle/0.0.2/org.ow2.chameleon.fuchsia.base.json-rpc.json-rpc-bundle-0.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/jar/org/ow2/chameleon/fuchsia/base/json-rpc/org.ow2.chameleon.fuchsia.base.json-rpc.json-rpc-bundle/0.0.2/org.ow2.chameleon.fuchsia.base.json-rpc.json-rpc-bundle-0.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/jar/org/ow2/chameleon/fuchsia/base/json-rpc/org.ow2.chameleon.fuchsia.base.json-rpc.json-rpc-bundle/0.0.2/org.ow2.chameleon.fuchsia.base.json-rpc.json-rpc-bundle-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
